@@ -1,1 +1,8 @@
 /* styles go here */
+.action {
+  margin-bottom: 20px;
+}
+
+div:not(:last-child) {
+  margin-bottom: 10px;
+}
