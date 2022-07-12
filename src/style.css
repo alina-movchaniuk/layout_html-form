@@ -3,6 +3,6 @@
   margin-bottom: 20px;
 }
 
-div:not(:last-child) {
+.component:not(:last-child) {
   margin-bottom: 10px;
 }
